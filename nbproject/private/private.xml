@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/build.xml</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/styleSheet/setting.css</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/DBL/DatabaseConnectionParameter.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/Setting.fxml</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/DBL/HibernateUtil.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/BLL/SettingController.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/icon/setting-48.png</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/icon/user-male-48.png</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/BLL/MainController.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/BLL/LoginController.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/styleSheet/lock-480.png</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/styleSheet/style.css</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/BLL/PasswordManager.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/styleSheet/main.css</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/DBL/AccountManager.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/DBL/Account.java</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/icon/lock-48.png</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/passwordManager/PTL/styleSheet/lock-icon.png</file>
+            <file>file:/home/m-hassnain/NetBeansProjects/PasswordManager/src/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
